@@ -116,7 +116,7 @@ free -m
 
 ### ONLY ON CONTROL NODE .. control plane install:
 #kubeadm init --pod-network-cidr 10.10.0.0/16 --kubernetes-version 1.26.1 --node-name k8s-control
-kubeadm init --pod-network-cidr 10.10.0.0/16 --kubernetes-version 1.26.1 --node-name ubuntmaster
+kubeadm init --pod-network-cidr 10.10.0.0/16 --kubernetes-version 1.27.1 --node-name ubuntmaster
 
 
 # add Calico 3.25 CNI 
