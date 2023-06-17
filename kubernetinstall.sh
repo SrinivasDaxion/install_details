@@ -130,5 +130,6 @@ kubectl apply -f custom-resources.yaml
 kubeadm token create --print-join-command
 
 
+
 ## ONLY ON WORKER nodes
 Run the command from the token create output above
