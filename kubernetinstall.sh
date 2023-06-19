@@ -9,6 +9,9 @@
 #https://www.itsgeekhead.com/tuts/kubernetes-126-ubuntu-2204.txt
 #https://github.com/kunchalavikram1427/YouTube_Series/blob/main/Kubernetes/ClusterSetup/Kubernetes_on_aws_with_containerd.md
 
+# AddOn To Networking and Network Policy.
+https://kubernetes.io/docs/concepts/cluster-administration/addons/
+
 #Verfiy MAC address should differ
 sudo cat /sys/class/dmi/id/product_uuid
 
